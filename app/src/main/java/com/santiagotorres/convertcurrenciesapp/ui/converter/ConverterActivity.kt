@@ -13,7 +13,7 @@ import com.santiagotorres.convertcurrenciesapp.R
 import com.santiagotorres.convertcurrenciesapp.databinding.ActivityConverterBinding
 import java.text.DecimalFormat
 
-
+//Aplicación subida para la version1.0
 class ConverterActivity : AppCompatActivity() {
 
     private lateinit var converterBinding: ActivityConverterBinding
