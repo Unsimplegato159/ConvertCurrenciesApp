@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Convert Currencies App</string>
+    <string name="First_Text">Tu conversor de divisas</string>
+    <string name="value" />
+    <string name="Value">Ingresa el valor a convertir</string>
+    <string name="From_currencie">De</string>
+    <string name="to_currencie">a</string>
+    <string name="hint_number">1234</string>
+    <string name="calculate">Calcular</string>
+    <string name="value_to_convert">Valor a convertir</string>
+    <string name="info" />
+    <string name="Infoi">info</string>
+    <string name="result_base" />
+
+    <string-array name="Currencies_array">
+        <item>Escoja una Divisa</item>
+        <item>Dolar Estadounidense</item>
+        <item>Peso Colombiano</item>
+        <item>Euro</item>
+        <item>Yen</item>
+        <item>Libra Esterlina</item>
+    </string-array>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="to_currencie_new">A</string>
+    <string name="content_description_1">From_currencie</string>
+    <string name="content_description_2">To_currencie</string>
+    <string name="obligatorio">*Campo Obligatorio</string>
+    <string name="empty" />
+
+</resources>
